@@ -48,7 +48,8 @@ defmodule Vaultex.Mixfile do
      files: ["lib", "mix.exs", "README*", "VERSION", "CHANGELOG.md"],
      maintainers: ["opensource@findmypast.com"],
      licenses: ["Apache 2.0"],
-     links: %{"GitHub" => "https://github.com/findmypast/vaultex"}
+     links: %{"GitHub" => "https://github.com/findmypast/vaultex"},
+     organization: "hippware",
     ]
   end
 end
